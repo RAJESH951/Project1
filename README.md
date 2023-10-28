@@ -1,2 +1,2 @@
-# Project1
+# College Finder Website
 Project
